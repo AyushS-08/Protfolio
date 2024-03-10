@@ -4,15 +4,6 @@
 
 
 
-Technologies Used:
-
-HTML5
-CSS3
-JavaScript
-
-
-How to Use:
-
 Feel free to explore my portfolio by visiting the website link above. You can navigate through different sections using the menu bar and interact with project demos and links provided. Don't forget to check out my resume and reach out to me if you have any questions or collaboration ideas!
 
 Feedback and Contributions:
